@@ -20,5 +20,9 @@
   "homepage": "https://github.com/Infinma/webscraper#readme",
   "dependencies": {
     "concurrently": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-plugin-react": "^7.12.4"
   }
 }
